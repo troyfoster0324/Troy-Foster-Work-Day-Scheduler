@@ -2,7 +2,7 @@
 
 ## Description 
 
-In this project, I modified a starter code using jQuery to create a calendar application that allows the user to see the current time and save tasks that persist once the page is refreshed.
+Using starter code i proceded to use jQuery and javascript to make a functional work day scheduler. This application allows the user to create events/ tast based on the users local time.  Refreshing the page will not delete saved task.
 
 ## Screenshot 
 
