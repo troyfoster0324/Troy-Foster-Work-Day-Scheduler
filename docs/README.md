@@ -12,7 +12,7 @@ The following image shows the application:
 
 ## URL
 
-[Workday Scheduler](file:///C:/Users/troyf/code/Troy-Foster-Work-Day-Scheduler/docs/index.html)
+[Workday Scheduler](https://troyfoster0324.github.io/Troy-Foster-Work-Day-Scheduler/)
 
 
 
